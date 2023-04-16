@@ -3,7 +3,7 @@
 ### I'm Ebad Uddin Ahmed #Web Developer 👨🏻‍💻
 
 
-#### CERTIFIED JavaScript Developer.
+#### JavaScript Developer.
 
 
 <hr style="height: 1px;">
@@ -13,8 +13,8 @@
 
 ##### An enthusiastic Full Stack Developer who is passionate about new technologies 😃
 
-- 🔭 I am currently working on Javascript, Angular& React.
-- 🌱 I am currently learning PHP & MySql
+- 🔭 I am currently working on Javascript.
+- 🌱 Also gain more knowledge about PHP & MySql
 - 💫 Looking to contribute to open-source
 
 
