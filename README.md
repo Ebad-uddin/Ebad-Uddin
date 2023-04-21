@@ -13,7 +13,7 @@
 
 ##### An enthusiastic Full Stack Developer who is passionate about new technologies 😃
 
-- 🔭 I am currently working on Javascript.
+- 🔭 I am currently working on ReactJS.
 - 🌱 Also gain more knowledge about PHP & MySql
 - 💫 Looking to contribute to open-source
 
