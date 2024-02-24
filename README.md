@@ -14,7 +14,7 @@ An enthusiastic Full Stack Developer who is passionate about exploring new techn
 <a href="https://www.linkedin.com/in/ebad-uddin-ahmed-3035241a0/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/Techtutorials29">
+<a href="http://www.youtube.com/@Techtutorials29">
 <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <br />
